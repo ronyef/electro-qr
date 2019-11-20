@@ -1,0 +1,12 @@
+.content-header {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: flex-start;
+    /* background-color: blanchedalmond; */
+    height: 50px;
+}
+
+.item-right {
+    flex-shrink: auto;
+}
